@@ -1,1 +1,1 @@
-A game made in love2d and lua.
+A game made in Love2d and Lua.
